@@ -1,0 +1,40 @@
+_repo: Taavetti-Anttilan-kohtalo-ym-kertomuksia-Ameriikan-suomalaisten-elamasta_51791
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Aho, Juhani
+    aliases:
+    - Brofeldt, Juhani
+    - Aho, Johani
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '1773'
+    url: http://www.gutenberg.org/2009/agents/1773
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Juhani_Aho
+    - http://fi.wikipedia.org/wiki/Juhani_Aho
+creator:
+  author:
+    agent_name: Zilliacus, Konni
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '45664'
+    url: http://www.gutenberg.org/2009/agents/45664
+description: ''
+gutenberg_issued: '2016-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51791'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish Americans -- Fiction'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Taavetti Anttilan kohtalo -- Elias Möykän Ameriikan matka -- Översti
+  Beckridge ja hänen gorillansa -- Kun Eerikki Käykkä särki pankin -- Pastori Lahti
+  -- Antti Ulukka.
+title: 'Taavetti Anttilan kohtalo: y.m. kertomuksia Ameriikan suomalaisten elämästä'
+url: http://www.gutenberg.org/ebooks/51791

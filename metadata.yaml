@@ -1,5 +1,5 @@
 _repo: Taavetti-Anttilan-kohtalo-ym-kertomuksia-Ameriikan-suomalaisten-elamasta_51791
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Aho, Juhani
@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Juhani_Aho
     - http://fi.wikipedia.org/wiki/Juhani_Aho
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zilliacus, Konni
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '45664'
     url: http://www.gutenberg.org/2009/agents/45664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51791#Taavetti-Anttilan-kohtalo-ym-kertomuksia-Ameriikan-suomalaisten-elamasta
 gutenberg_issued: '2016-04-19'
 gutenberg_type: Text
 identifiers:
